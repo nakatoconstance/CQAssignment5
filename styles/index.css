@@ -1,0 +1,87 @@
+/* body{ 
+
+    color:aqua;
+}
+.body{
+    color:blue;
+}
+#content{
+    color:pink;
+}
+
+
+body> h1{
+    color:firebrick
+}
+.description{
+    color:mediumblue
+}
+#unique{
+    color:mediumvioletred
+}
+
+*/
+.Page-title{
+    color:#B97A95
+}
+.card-title{
+    /* color:#00A19D */
+    color:rgb(50%, 20%, 60%)
+}
+.card-content{
+    color:rgba(50, 50, 50, 0.4)
+}
+
+/* setting the background */
+body{
+    background-image:url('/img/bg1.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+/* stylng the image */
+.banner img{
+width: 150px;
+height: 150px;
+align-content: center;
+
+}
+
+
+
+  /* 
+  The Menu
+   */
+
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+  }
+  /* stylng buttons */
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  /* styling the title */
+  .Page-title{
+      color:#3B0000
+  }
+
+  /* lsts */
+
+  ul.a {
+    list-style-type: circle;
+  }

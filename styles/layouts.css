@@ -1,0 +1,22 @@
+.container{
+    width: 80%;
+    margin:auto;
+}
+/* puttng content a good boarder*/
+
+.bordering {
+    background-color: lightgrey;
+    width: 800px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 100px;
+   align-self: center;
+   /* vertical-align: middle; */
+   align-content: center;
+   
+  }
+  /* stylying copyright */
+  .copyright{
+      color: blue;
+      align-content: center;
+  }
